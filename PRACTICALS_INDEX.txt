@@ -1,0 +1,10 @@
+1. Correlation and Variable Association — Diabetes Dataset — 01_correlation_variable_association/practical.py
+2. Clustering — 02_clustering/practical.py
+3. Principal Component Analysis (PCA) — 03_principal_component_analysis/practical.py
+4. Naive Bayes Classification — 04_naive_bayes/practical.py
+5. K-Nearest Neighbors (KNN) — 05_k_nearest_neighbors/practical.py
+6. Linear Regression — 06_linear_regression/practical.py
+7. Support Vector Regression (SVR) — 07_support_vector_regression/practical.py
+8. Regularization — Ridge and Lasso — 08_regularization_ridge_lasso/practical.py
+9. CCTV Object Detection — 09_cctv_object_detection/practical.py
+10. Multimodal Fake-News Detection — 10_multimodal_fake_news_detection/practical.py
